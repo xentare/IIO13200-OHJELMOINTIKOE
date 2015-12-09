@@ -1,0 +1,1 @@
+Tee Tehtävän1 sovellukset tähän kansioon oman projektina.
