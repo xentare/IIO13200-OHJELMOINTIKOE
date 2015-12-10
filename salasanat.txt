@@ -1,0 +1,6 @@
+Musti - Musti
+Ilvo - Ilvo
+Tero - Tero
+Ville - Ville
+
+Elikkäs salasana = nimi;

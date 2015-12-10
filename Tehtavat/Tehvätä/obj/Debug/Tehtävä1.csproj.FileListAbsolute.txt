@@ -1,0 +1,14 @@
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehvätä\bin\Debug\Tehvätä.exe.config
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehvätä\bin\Debug\Tehvätä.exe
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehvätä\bin\Debug\Tehvätä.pdb
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehvätä\obj\Debug\Tehtävä1.csprojResolveAssemblyReference.cache
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehvätä\obj\Debug\MainWindow.g.cs
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehvätä\obj\Debug\App.g.cs
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehvätä\obj\Debug\Tehvätä_MarkupCompile.cache
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehvätä\obj\Debug\Tehvätä_MarkupCompile.lref
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehvätä\obj\Debug\MainWindow.baml
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehvätä\obj\Debug\Tehvätä.g.resources
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehvätä\obj\Debug\Tehvätä.Properties.Resources.resources
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehvätä\obj\Debug\Tehtävä1.csproj.GenerateResource.Cache
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehvätä\obj\Debug\Tehvätä.exe
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehvätä\obj\Debug\Tehvätä.pdb

@@ -1,0 +1,14 @@
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehtävä2WPF\bin\Debug\Tehtävä2WPF.exe.config
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehtävä2WPF\bin\Debug\Tehtävä2WPF.exe
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehtävä2WPF\bin\Debug\Tehtävä2WPF.pdb
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehtävä2WPF\obj\Debug\MainWindow.g.cs
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehtävä2WPF\obj\Debug\App.g.cs
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehtävä2WPF\obj\Debug\Tehtävä2WPF_MarkupCompile.cache
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehtävä2WPF\obj\Debug\Tehtävä2WPF_MarkupCompile.lref
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehtävä2WPF\obj\Debug\MainWindow.baml
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehtävä2WPF\obj\Debug\Tehtävä2WPF.g.resources
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehtävä2WPF\obj\Debug\Tehtävä2WPF.Properties.Resources.resources
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehtävä2WPF\obj\Debug\Tehtävä2WPF.csproj.GenerateResource.Cache
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehtävä2WPF\obj\Debug\Tehtävä2WPF.exe
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehtävä2WPF\obj\Debug\Tehtävä2WPF.pdb
+D:\IIO13200-OHJELMOINTIKOE\Tehtavat\Tehtävä2WPF\obj\Debug\Tehtävä2WPF.csprojResolveAssemblyReference.cache
